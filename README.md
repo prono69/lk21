@@ -109,6 +109,7 @@ Sangat mudah bukan, untuk membuat user input yang <i>user friendly</i> saya meng
 | 18 | Samehadaku | `https://samehadaku.vip` | anime | `lk21.extractors.samehadaku.Samehadaku` |
 | 19 | Wibudesu | `https://wibudesu.com` | anime | `lk21.extractors.wibudesu.Wibudesu` |
 | 20 | Zonawibu | `https://asuka.zonawibu.net` | anime | `lk21.extractors.zonawibu.Zonawibu` |
+| 21 | Nekonime | `https://nekonime.site` | anime | `lk21.extractors.nekonime.Nekonime` |
 
 # Library
 lk21 juga dapat digunakan sebagai library. Artinya, Anda dapat mengimpornya ke aplikasi Anda sendiri.
